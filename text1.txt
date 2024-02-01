@@ -1,9 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is E46F-8BE1
-
- Directory of E:\MyGitProject
-
-01-02-2024  19:15    <DIR>          .
-01-02-2024  19:15                 0 text1.txt
-               1 File(s)              0 bytes
-               1 Dir(s)  169,729,298,432 bytes free
+Change 1
